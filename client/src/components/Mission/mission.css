@@ -1,0 +1,7 @@
+.missionContainer {
+    background-color: darkblue;
+    display: inline-block;
+    height: 500px;
+    width: 300px;
+    margin: 10px 5px 3px 5px;
+}
